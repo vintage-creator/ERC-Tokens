@@ -9,10 +9,10 @@ This is the short form for Ethereum Request for Comments and it is a "token stan
 _Some of the types of ERCs are as follows:_
 
 # ERC20 Token
-Vintage Token (VIT), a type of fungible token developed with Ethereum Request for Comments (ERC20) Standard has now been verified and published on Etherscan. Find it here: https://rinkeby.etherscan.io/address/0x3658d7dff8d6907273829c914afe132988be8b31
+Vintage Token (VIT), a type of "fungible token" developed with Ethereum Request for Comments (ERC20) Standard has now been verified and published on Etherscan. Find it here: https://rinkeby.etherscan.io/address/0x3658d7dff8d6907273829c914afe132988be8b31
 
 # ERC721 Token
-VintageNFT otherwise denoted as "VNFT" is a type of Non-fungible token. It is developed according to ERC721 Standard representing digital items that have unique properties and are distint from the other. This also has now  been verified and published on Etherscan: https://rinkeby.etherscan.io/address/0xe9834a82eae356979e8b0e470a75f58f09a8a359
+VintageNFT otherwise denoted as "VNFT" is a type of "Non-fungible token". It is developed according to ERC721 Standard representing digital items that have unique properties and are distint from the other. This also has now  been verified and published on Etherscan: https://rinkeby.etherscan.io/address/0xe9834a82eae356979e8b0e470a75f58f09a8a359
 
 
 # Metadata Structure:
