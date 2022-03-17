@@ -1,6 +1,6 @@
 # ERC-Tokens:
 
-This is the task 3 of Blockgames(https://blockgames.gg/), _a competition sponsored by Nestcoin (https://nestcoin.com/) in partnership with Zuri Team (https://zuri.team/) focused on blockchain technology and how to leverage it for solving real life problems.
+This is the task 3 of Blockgames (https://blockgames.gg/), _a competition sponsored by Nestcoin (https://nestcoin.com/) in partnership with Zuri Team (https://zuri.team/) focused on blockchain technology and how to leverage it for solving real life problems.
 
 # What is ERC? 
 This is the short form for Ethereum Request for Comments and it is a "token standard" that implements an Application Programming Interface (API) for tokens within smart contracts . It provides functionalities like transferring tokens from one account to another, to get the current token balance of an account, and the total supply of the token available on the network. This "standard" was proposed by Ethereum Blockchain to ensure interoperability of the digital tokens in its platform to provide the list of rules to be followed by token implementation.
@@ -16,6 +16,7 @@ VintageNFT otherwise denoted as "VNFT" is a type of Non-fungible token. It is de
 # Metadata Structure:
 
 {
+
 "name": "VintageNFT Collectibles",
 
 "image URL": "ipfs.io/ipfs/QmdRy5wdrMNqK7fbATVuUynB8tntHzCnkgtkEmQySYn1hi", "ipfs.io/ipfs/QmV9NbhrQwNk8Vh5zVC5uJrKs3MKPPhvM85yLG7CGgT6Cb",
